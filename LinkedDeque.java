@@ -1,5 +1,5 @@
-import com.zybooks.dsaj.fundamental.DoublyLinkedList;
-    
+import OldFiles.DoublyLinkedList;
+
 /**
  * Realization of a double-ended queue as an adaptation of a DoublyLinkedList.
  * All operations are performed in constant time.

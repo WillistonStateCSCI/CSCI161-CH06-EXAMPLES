@@ -1,4 +1,4 @@
-import com.zybooks.dsaj.fundamental.SinglyLinkedList;
+import OldFiles.SinglyLinkedList;
 
 /**
  * Realization of a stack as an adaptation of a SinglyLinkedList.

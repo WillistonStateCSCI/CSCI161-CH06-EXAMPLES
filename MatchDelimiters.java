@@ -1,5 +1,3 @@
-import java.util.Scanner;
-
 /** Simplified test of matching delimiters in a string. */
 public class MatchDelimiters {
 
