@@ -140,7 +140,7 @@ public class SinglyLinkedList<E> implements Cloneable {
         return answer;
     }
 
-    @SuppressWarnings({"unchecked"})
+
     public boolean equals(Object o) {
         if (o == null) return false;
         if (getClass() != o.getClass()) return false;
